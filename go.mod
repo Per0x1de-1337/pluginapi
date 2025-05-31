@@ -1,4 +1,4 @@
-module kubestellar-pluginapi
+module pluginapi
 
 go 1.24.2
 
