@@ -1,4 +1,4 @@
-module pluginapi
+module github.com/Per0x1de-1337/pluginapi
 
 go 1.24.2
 
